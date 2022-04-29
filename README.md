@@ -19,11 +19,12 @@ Hi there, I'm Han and I'm a data professional and freelance developer from Wales
 ### Top Soft Skills
 
 - Problem Solving
+- Communication & Presentation Skills
 - Teamwork
 - Analytical skills
 - Research
 - Creative Thinking
-- Communication & Presentation Skills
+
 
 ### Socials
 
