@@ -1,10 +1,10 @@
 ### Welcome! 👋
 
-Hi there, I'm Han and I'm a data professional and freelance developer from Wales 🇬🇧󠁧󠁢.󠁧󠁢󠁷󠁬
+Hi there, I'm Han and I'm a data professional and freelance developer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧󠁧󠁢.󠁧󠁢󠁷󠁬
 
 - 🔭 I’m currently working on Python data analysis and a few front-end web dev Projects.
-- 🌱 I’m currently brushing up on PHP and React.js
-- 💬 My main interests are data, web development and women in tech.
+- 🌱 I’m currently brushing up on Solidity and React.js
+- 💬 My main interests are blockchain, web3, data, web development and women in tech.
 - ⚡ Fun fact: I'm a new twin mum, so adaptability is my superpower!
 
 ### 🖥️ Tech Stack & Toolkit
