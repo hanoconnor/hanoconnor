@@ -13,7 +13,7 @@ Hi there, I'm Han and I'm a data professional and freelance developer based in W
 
 
 ### 👩‍🎓 Upskilling in
-<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="30" height="30"><img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/react.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/r.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/php.svg" width="30" height="30">
+<img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/c-sharp.svg" width="30" height="30"><img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/dotnet.svg" width="30" height="30"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="30" height="30"><img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/react.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/r.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/php.svg" width="30" height="30">
 
 ### Top Soft Skills
 
