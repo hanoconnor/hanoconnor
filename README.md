@@ -1,11 +1,12 @@
 ### Welcome! 👋
 
-Hi there, I'm Han and I'm a data professional and freelance developer based in Wales󠁧󠁢.󠁧󠁢󠁷󠁬
+Hi there, I'm Han. I'm a data professional, freelance developer and coding instructor based in Wales󠁧󠁢.󠁧󠁢󠁷󠁬
 
-- 🔭 I’m currently working on Python data analysis and a few front-end web dev Projects.
-- 🌱 I’m currently brushing up on C#, .NET, Solidity and React.js
-- 💬 My main interests are blockchain, web3, data, web development and women in tech.
-- ⚡ Fun fact: I'm a new twin mum, so adaptability is my superpower!
+- 🔭 I’m currently working on a some C# and .NET projects, as well as few web dev projects for clients.
+- 🔭 I currently teach Python, SQL, JavaScript & HTML/CSS as an instructor for Code First Girls.
+- 🌱 I’m currently brushing up on C#, .NET, Solidity and React.js to modernise my tech stack.
+- 💬 My main interests are data, database development, blockchain and supporting women in tech.
+- ⚡ Fun fact: I started programming over 20 years ago and turned a much-loved hobby into a career - so can you!
 
 ### 🖥️ Tech Stack & Toolkit
 
@@ -13,7 +14,7 @@ Hi there, I'm Han and I'm a data professional and freelance developer based in W
 
 
 ### 👩‍🎓 Upskilling in
-<img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/c-sharp.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/dotnet.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/react.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/r.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/php.svg" width="30" height="30">
+<img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/c-sharp.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/dotnet.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/react.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/r.svg" width="30" height="30">
 
 ### Top Soft Skills
 
@@ -28,18 +29,3 @@ Hi there, I'm Han and I'm a data professional and freelance developer based in W
 ### Socials
 
 Come and say hi on Twitter (@HanOConnorDev) or LinkedIn: https://www.linkedin.com/in/hanoconnor/
-
-
-<!--
-**hanoconnor/hanoconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="" width="30" height="30">
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning PHP and React.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
