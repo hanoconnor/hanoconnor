@@ -2,7 +2,7 @@
 
 Hi there, I'm Han. I'm a data professional, freelance developer and coding instructor based in Wales󠁧󠁢.󠁧󠁢󠁷󠁬
 
-- 🔭 I’m currently working on a some C# and .NET projects, as well as few web dev projects for clients.
+- 🔭 I’m currently working on C# and .NET projects, as well as a few web dev projects for clients.
 - 🔭 I currently teach Python, SQL, JavaScript & HTML/CSS as an instructor for Code First Girls.
 - 🌱 I’m currently brushing up on C#, .NET, Solidity and React.js to modernise my tech stack.
 - 💬 My main interests are data, database development, blockchain and supporting women in tech.
