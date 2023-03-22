@@ -1,11 +1,11 @@
-### Welcome! 👋
+<h1>Hi there, I'm Han 👋</h1>
 
-Hi there, I'm Han. I'm a data professional, freelance developer and coding instructor based in Wales󠁧󠁢.󠁧󠁢󠁷󠁬
+<h2>Cybersecurity professional | Coding instructor | Freelance developer </h2>
 
-- 🔭 I’m currently working on C# and .NET projects, as well as a few web dev projects for clients.
-- 🔭 I currently teach Python, SQL, JavaScript & HTML/CSS as an instructor for Code First Girls.
-- 🌱 I’m currently brushing up on C#, .NET, Solidity and React.js to modernise my tech stack.
-- 💬 My main interests are data, database development, blockchain and supporting women in tech.
+- 🔭 I’m currently working on cybersecurity and cloud security projects.
+- 🔭 I currently teach Python, SQL, JavaScript & HTML/CSS as a lead instructor for Code First Girls.
+- 🌱 I’m currently brushing up on C# to modernise my tech stack.
+- 💬 My main interests are cybersecurity, python, sql/kql, cloud computing and cloud security.
 - ⚡ Fun fact: I started programming over 20 years ago and turned a much-loved hobby into a career - so can you!
 
 ### 🖥️ Tech Stack & Toolkit
