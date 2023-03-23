@@ -1,14 +1,14 @@
-<h1>Hi there, I'm Han 👋</h1>
+<h1>Hello, I'm Han</h1>
 
 <h2>Cybersecurity professional | Coding instructor | Freelance developer </h2>
 
-- 🔭 I’m currently working on cybersecurity and cloud security projects.
-- 🔭 I currently teach Python, SQL, JavaScript & HTML/CSS as a lead instructor for Code First Girls.
-- 🌱 I’m currently brushing up on C# to modernise my tech stack.
-- 💬 My main interests are cybersecurity, python, sql/kql, cloud computing and cloud security.
-- ⚡ Fun fact: I started programming over 20 years ago and turned a much-loved hobby into a career - so can you!
+- I’m currently working on cybersecurity, cloud security, Python and C# projects.
+- I teach Python, SQL, JavaScript & HTML/CSS as a lead instructor for Code First Girls.
+- I’m currently brushing up on C# to modernise my tech stack.
+- My main interests are cybersecurity, python, sql/kql, cloud computing and cloud security.
+- Fun fact: I started programming over 20 years ago and turned a much-loved hobby into a career - so can you!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>Ethical Hacking / Security Tools</b>
   - [Port Scanner in Python](https://github.com/hanoconnor/eh-tools/tree/main/Lib/port-scanner)
