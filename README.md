@@ -1,6 +1,6 @@
-<h1>Hello, I'm Han</h1>
+<h1>Hello, I'm Han! <br/>
+<a href="https://www.linkedin.com/in/hanoconnor">Cybersecurity professional</a> | <a href="https://codefirstgirls.com/">Coding instructor</a> | <a href="https://github.com/hanoconnor">Developer</a></h1>
 
-<h2>Cybersecurity professional | Coding instructor | Freelance developer </h2>
 
 - I’m currently working on cybersecurity, cloud security, Python and C# projects.
 - I teach Python, SQL, JavaScript & HTML/CSS as a lead instructor for Code First Girls.
