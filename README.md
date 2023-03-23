@@ -19,7 +19,7 @@
 - <a href="https://www.credly.com/badges/efedbe10-d65d-4a08-80ba-2c01e05a07af/public_url">Microsoft Certified: Azure Data Fundamentals</a>
 - <a href="https://www.credly.com/badges/6e9bca93-77db-415b-b2cd-f3328a7e87bf/public_url">Microsoft Certified: Azure Fundamentals</a>
 
-<h2>Connect with me:</h2>
+<h3>Connect with me:</h3>
 
 [<img align="left" alt="HanOConnor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HanOConnor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
