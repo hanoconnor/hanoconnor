@@ -8,9 +8,10 @@
 - 💬 My main interests are cybersecurity, python, sql/kql, cloud computing and cloud security.
 - ⚡ Fun fact: I started programming over 20 years ago and turned a much-loved hobby into a career - so can you!
 
-<h2> 🖥️ Tech Stack & Toolkit</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/css-3.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/bootstrap.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/javascript.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/python.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/jupyter.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mysql.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/figma.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/netlify.svg" width="30" height="30"> <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/c-sharp.svg" width="30" height="30"> 
+- <b>Ethical Hacking/ Security Tools</b>
+  - [Port Sacnner in Python](https://github.com/hanoconnor/eh-tools/tree/main/Lib/port-scanner)
 
 <h2>Recent Certifications</h2>
 
