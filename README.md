@@ -4,7 +4,7 @@
 
 - I’m currently working on cybersecurity, cloud security, Python and C# projects.
 - I teach Python, SQL, JavaScript & HTML/CSS as a lead instructor for Code First Girls.
-- I’m currently brushing up on C# to modernise my tech stack.
+- I’m currently brushing up on C# and learning Go to modernise my tech stack.
 - My main interests are cybersecurity, python, sql/kql, cloud computing and cloud security.
 - Fun fact: I started programming over 20 years ago and turned a much-loved hobby into a career - so can you!
 
