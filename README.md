@@ -11,7 +11,8 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Ethical Hacking / Security Tools</b>
-  - [Port Scanner in Python](https://github.com/hanoconnor/eh-tools/tree/main/Lib/port-scanner)
+  - [Port Scanner in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/port-scanner)
+  - [Ransomware Decryptor in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/ransomware-decryptor)
 
 <h2>Recent Certifications</h2>
 
