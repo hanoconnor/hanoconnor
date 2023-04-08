@@ -20,7 +20,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Ethical Hacking / Security Tools</b>
+- <b>Ethical Hacking / Pen Testing Tools</b>
   - [Port Scanner in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/port-scanner)
   - [Ransomware Decryptor in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/ransomware-decryptor)
   - [Pen Testing Bruteforcer tool in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/bruteforcer)
