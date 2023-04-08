@@ -23,6 +23,7 @@
 - <b>Ethical Hacking / Security Tools</b>
   - [Port Scanner in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/port-scanner)
   - [Ransomware Decryptor in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/ransomware-decryptor)
+  - [Pen Testing Bruteforcer tool in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/bruteforcer)
 
 <h2>Recent Certifications</h2>
 
