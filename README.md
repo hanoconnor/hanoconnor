@@ -7,7 +7,7 @@
                                                                                              
                                                               
 <h1>Hello, I'm Han! <br/>
-<a href="https://www.linkedin.com/in/hanoconnor">Cybersecurity professional</a> | <a href="https://codefirstgirls.com/">Coding instructor</a> | <a href="https://github.com/hanoconnor">Developer</a></h1>
+<a href="https://www.linkedin.com/in/hanoconnor">Cybersecurity professional</a> | <a href="https://codefirstgirls.com/">Coding instructor</a> | <a href="https://github.com/hanoconnor">Blue Teamer</a></h1>
 
 
 - I’m currently working on cybersecurity, cloud security, Python and C# projects.
@@ -30,6 +30,11 @@
 - <a href="https://www.credly.com/badges/83f01b6e-a160-4277-82f4-be401c1a9a37/public_url">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>
 - <a href="https://www.credly.com/badges/efedbe10-d65d-4a08-80ba-2c01e05a07af/public_url">Microsoft Certified: Azure Data Fundamentals</a>
 - <a href="https://www.credly.com/badges/6e9bca93-77db-415b-b2cd-f3328a7e87bf/public_url">Microsoft Certified: Azure Fundamentals</a>
+
+<h2>Articles</h2>
+
+- <a href="https://motherboardmovement.co.uk/community/mums-in-tech-feat-han-oconnor">Mums in Tech Interview – MotherBoard</a>
+
 
 <h3>Connect with me:</h3>
 
