@@ -24,6 +24,8 @@
   - [Port Scanner in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/port-scanner)
   - [Ransomware Decryptor in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/ransomware-decryptor)
   - [Pen Testing Bruteforcer tool in Python](https://github.com/hanoconnor/ethical-hacking-tools/tree/main/Lib/bruteforcer)
+ 
+<i> DISCLAIMER: these ethical hacking tools are intended for educational purposes and awareness training sessions only. Performing hacking attempts on computers that you do not own (without permission) is illegal! Do not attempt to gain access to devices that you do not own or have permission to access.</i>
 
 <h2>Recent Certifications</h2>
 
