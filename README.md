@@ -29,6 +29,8 @@
 
 <h2>Recent Certifications</h2>
 
+- <a href="https://www.credly.com/badges/a3c7bf9a-72aa-4342-8c77-0ae0d2e9640f/public_url">CompTIA Security+</a>
+- <a href="https://www.credly.com/badges/7293b9f5-0416-4a62-8eb5-11b9f84afe96/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/83f01b6e-a160-4277-82f4-be401c1a9a37/public_url">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>
 - <a href="https://www.credly.com/badges/efedbe10-d65d-4a08-80ba-2c01e05a07af/public_url">Microsoft Certified: Azure Data Fundamentals</a>
 - <a href="https://www.credly.com/badges/6e9bca93-77db-415b-b2cd-f3328a7e87bf/public_url">Microsoft Certified: Azure Fundamentals</a>
